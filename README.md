@@ -149,6 +149,10 @@ Cyber Security Intern
 India
 
 
+
+
+
+
 ## TASK 2
 
 ## 🛡 Phishing Email Detection & Awareness Report  
@@ -307,3 +311,174 @@ This project reflects practical knowledge relevant for:
 - GRC & Security Awareness roles  
 - Corporate cybersecurity training programs
 
+
+
+
+
+
+## Task 3
+# 🛡 API Security Risk Analysis Report  
+### Modern SaaS Security Assessment | 2026
+
+---
+
+## 📌 Executive Summary
+
+This repository contains a professional API Security Risk Analysis conducted on a public demo API as part of a cybersecurity internship project.
+
+The objective of this assessment was to evaluate API endpoints, authentication mechanisms, response structures, and potential security misconfigurations using a strictly read-only methodology.
+
+This project reflects real-world SaaS API security review practices followed by AppSec teams and security consultants.
+
+---
+
+## 🎯 Business Objective
+
+Modern applications depend heavily on APIs for:
+
+- Mobile app communication  
+- SaaS platform integrations  
+- Dashboard data exchange  
+- Third-party service connections  
+
+Insecure APIs may lead to:
+
+- Sensitive data exposure  
+- Authentication bypass  
+- Unauthorized data access  
+- Abuse of endpoints  
+
+This assessment demonstrates how to identify and classify such risks professionally.
+
+---
+
+## 🌐 API Tested
+
+**API Name:** JSONPlaceholder  
+**Base URL:** https://jsonplaceholder.typicode.com  
+**Type:** Public Demo API  
+**Scope:** Read-Only Testing (GET requests only)
+
+---
+
+## 📊 Scope of Analysis
+
+✔ Endpoint inspection  
+✔ Header analysis  
+✔ Authentication review  
+✔ Response structure evaluation  
+✔ Risk classification  
+✔ Remediation recommendations  
+
+🚫 No exploitation  
+🚫 No bypass attempts  
+🚫 No DoS or flooding  
+🚫 No production system testing  
+
+---
+
+## 🛠 Tools Used
+
+### 1️⃣ Postman  
+- Endpoint testing  
+- Request/response inspection  
+- Header analysis  
+
+### 2️⃣ Browser DevTools  
+- Network request inspection  
+- Response validation  
+
+---
+
+## 🔎 Key Risks Identified
+
+| Risk | Severity | Business Impact |
+|------|----------|----------------|
+| Open/Unauthenticated Endpoints | Medium | Potential data exposure |
+| Excessive Data Exposure | Medium | Information leakage risk |
+| Missing Rate Limiting | Medium | API abuse possibility |
+| Weak Input Validation | Low-Medium | Data handling vulnerability |
+| Limited Authorization Controls | Medium | Cross-user data access risk |
+
+### Overall Risk Rating: 🟠 Medium
+
+---
+
+## 📈 Risk Impact for Organizations
+
+If similar weaknesses exist in production APIs, organizations may face:
+
+- Data breaches  
+- User privacy violations  
+- Regulatory compliance issues  
+- Reputational damage  
+
+API security must be treated as a critical component of modern cybersecurity strategy.
+
+---
+
+## 🛡 Recommended Security Improvements
+
+### Immediate Controls
+- Enforce authentication on sensitive endpoints  
+- Limit exposed response fields  
+- Implement rate limiting  
+
+### Advanced Controls
+- Apply role-based access control (RBAC)  
+- Enable input validation & schema enforcement  
+- Implement API gateway security policies  
+- Monitor API traffic for anomalies  
+
+---
+
+## 📂 Repository Structure
+
+api-security-risk-analysis  
+│  
+├── Report/  
+│   └── Cyber_Security_Task_3_API_Security_Risk_Analysis_Complete_Report.docx  
+│  
+├── Evidence/  
+│   ├── Postman_Screenshots/  
+│   └── Header_Inspection/  
+│  
+└── README.md  
+
+---
+
+## 🎓 Skills Demonstrated
+
+- API security analysis  
+- Authentication & authorization review  
+- Risk severity classification  
+- Business impact assessment  
+- Security documentation  
+- SaaS security understanding  
+
+---
+
+## ⚠ Ethical Statement
+
+This assessment was conducted strictly on a public demo API under read-only scope for educational purposes.
+
+No exploitation or malicious activity was performed.
+
+---
+
+## 👨‍💻 Author
+
+**Aniket Solunke**  
+Cyber Security Intern  
+India  
+
+---
+
+## 🚀 Professional Relevance
+
+This project aligns with responsibilities in:
+
+- AppSec Engineer roles  
+- Security Analyst positions  
+- SaaS Security Consultant roles  
+- API Security Specialist roles
