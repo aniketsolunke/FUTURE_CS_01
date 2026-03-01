@@ -149,9 +149,9 @@ Cyber Security Intern
 India
 
 
-TASK 2
+## TASK 2
 
-🛡 Phishing Email Detection & Awareness Report  
+## 🛡 Phishing Email Detection & Awareness Report  
 
 ## 📌 Executive Summary
 
