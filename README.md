@@ -148,11 +148,10 @@ Aniket Solunke
 Cyber Security Intern  
 India
 
-TASK 2
-# 🛡 Phishing Email Detection & Awareness Report  
-### Client-Level Security Assessment | 2026
 
----
+TASK 2
+
+🛡 Phishing Email Detection & Awareness Report  
 
 ## 📌 Executive Summary
 
@@ -307,3 +306,4 @@ This project reflects practical knowledge relevant for:
 - Security Analyst positions  
 - GRC & Security Awareness roles  
 - Corporate cybersecurity training programs
+
